@@ -12,7 +12,7 @@ import AppleLogo from './Images/AppleLogo.png'
 import AppleWatchLogo from './Images/AppleWatchLogo.png'
 import AppleWatch from './Images/AppleWatch.png'
 import iPadSpiral from './Images/iPadSpiral.png'
-import Macbook from './Images/MacBook.png'
+import MacBook from './Images/MacBook.png'
 import WatchLogo from './Images/WatchLogo.png'
 import WatchSprial from './Images/WatchSpiral.png'
 import TradeLogo from './Images/TradeLogo.png'
@@ -112,7 +112,7 @@ function App() {
           subHeaderClass={"text-2xl max-w-xs"}
           buttonText={"Learn more"}
           additionalButton={"Buy"}
-          image={Macbook}
+          image={MacBook}
           imageClass={"w-125 mt-5 mb-10"}
           />
 
