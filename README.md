@@ -5,8 +5,7 @@ It’s a practice project to strengthen front-end development skills, component 
 
 🔗 Live Demo
 
-Check out the live version on Vercel:
-Apple Homepage Recreation
+Check out the live version on Vercel: https://apple-homepage-u7a9.vercel.app/
 
 💻 Features
 
