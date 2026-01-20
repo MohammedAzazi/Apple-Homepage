@@ -20,18 +20,18 @@ Apple Homepage Recreation
 
 ✅ Focused on clean code, component structure, and organization
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 Technology	Purpose
 React JSX	Component-based front-end structure
 Tailwind CSS	Utility-first CSS for fast and responsive styling
 Vercel	Hosting the live demo
 
-📂 Project Structure
+# 📂 Project Structure
 src/components/          → Reusable React components
 src/components/ImagesCopy → For easier use of images inside components
 src/Images/               → Images for different sections
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 Clone the repository
 
@@ -51,14 +51,11 @@ npm install
 Run the development server
 
 npm start
-# or
+or
 npm run dev
 
 
-Open http://localhost:3000
- to view it in your browser.
-
-📖 Learning Outcomes
+# Learning Outcomes
 
 Practiced React component structuring and passing props effectively
 
@@ -66,6 +63,6 @@ Applied Tailwind CSS to achieve responsive and pixel-perfect layouts
 
 Learned to prioritize clean code and reusable components for scalable projects
 
-📌 Notes
+# Notes
 
 This project is for learning and portfolio purposes, focusing on front-end development best practices.
