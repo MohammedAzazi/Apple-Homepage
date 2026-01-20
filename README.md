@@ -1,4 +1,4 @@
-#🍏 Apple Homepage Recreation
+# Apple Homepage Recreation
 
 This project is a recreation of Apple’s homepage using React JSX and Tailwind CSS, focused on replicating the layout, design, and interactive UI components.
 It’s a practice project to strengthen front-end development skills, component structuring, and responsive design.
