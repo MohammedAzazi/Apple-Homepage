@@ -1,16 +1,69 @@
-# React + Vite
+# Apple Homepage Recreation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a recreation of Apple’s homepage using React JSX and Tailwind CSS, focused on replicating the layout, design, and interactive UI components. It’s a practice project to strengthen front-end development skills, component structuring, and responsive design.
 
-Currently, two official plugins are available:
+🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Check out the live version on Vercel:
+Apple Homepage Recreation
 
-## React Compiler
+💻 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Pixel-accurate recreation of Apple’s homepage layout
 
-## Expanding the ESLint configuration
+Fully responsive design using Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clean and reusable React JSX components
+
+Dynamic UI elements for buttons, navigation, and sections
+
+Focused on clean code, component structure, and organization
+
+🛠️ Technologies Used
+
+React JSX – Component-based front-end structure
+
+Tailwind CSS – Utility-first CSS for fast and responsive styling
+
+Vercel – Hosting the live demo
+
+📂 Project Structure
+
+src/components/ - Contains reusable React components
+
+src/components/ImagesCopy - For easier use of images inside components
+
+src/Images/ - Images to use for different sections
+🚀 Getting Started
+
+Clone the repository
+
+git clone https://github.com/MohammedAzazi/Apple-Homepage.git
+
+
+Navigate to the project directory
+
+cd Apple-Homepage
+
+
+Install dependencies
+
+npm install
+
+
+Run the development server
+
+npm start OR npm run dev
+
+
+📖 Learning Outcomes
+
+Practiced React component structuring and passing props effectively
+
+Applied Tailwind CSS to achieve responsive and pixel-perfect layouts
+
+Learned to prioritize clean code and reusable components for scalable projects
+
+📌 Notes
+
+This project is for learning and portfolio purposes, focusing on front-end development best practices.
